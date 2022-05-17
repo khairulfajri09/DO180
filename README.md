@@ -1,5 +1,5 @@
 # DO180
-Courses DO180
+Courses DO180 - Red Hat OpenShift I
 Guided Exercise: Configuring the Classroom Environment
 In this exercise, you will configure the workstation to access all infrastructure used by this course.
 
